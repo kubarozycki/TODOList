@@ -1,0 +1,14 @@
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\bin\Debug\netcoreapp2.1\TODOList.deps.json
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\bin\Debug\netcoreapp2.1\TODOList.runtimeconfig.json
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\bin\Debug\netcoreapp2.1\TODOList.runtimeconfig.dev.json
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\bin\Debug\netcoreapp2.1\TODOList.dll
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\bin\Debug\netcoreapp2.1\TODOList.pdb
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.csprojAssemblyReference.cache
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.csproj.CoreCompileInputs.cache
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.RazorAssemblyInfo.cache
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.RazorAssemblyInfo.cs
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.AssemblyInfoInputs.cache
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.AssemblyInfo.cs
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.RazorTargetAssemblyInfo.cache
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.dll
+C:\Users\alfa\Desktop\TODOList\Backend\TODOList\obj\Debug\netcoreapp2.1\TODOList.pdb

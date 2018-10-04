@@ -1,0 +1,32 @@
+<html>
+
+<head>
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+          crossorigin="anonymous">
+    <title>Zadania</title>
+    <script src="../JavaScript/main.js"></script>
+    <link rel="stylesheet" href="../CSS/main.css">
+</head>
+
+<body>
+    <h3>Witaj w liście zadań</h3>
+    <form onsubmit="addTask()">
+        <input id="taskTitle"
+               type="text">
+        <input type="submit">
+    </form>
+    <table class="table">
+        <thead>
+            <th>Nazwa zadania</th>
+            <th>Zrobione</th>
+        </thead>
+        <tbody id="tableBody">
+
+        </tbody>
+    </table>
+    <img src="../Assets/dajnotylkolinka.png">
+</body>
+
+</html>
